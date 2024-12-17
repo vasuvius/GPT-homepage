@@ -1,0 +1,31 @@
+[
+    {
+        "title": "Software Engineer II, Walmart eCommerce",
+        "date": "October 2022 - January 2024",
+        "desc":"Built and managed Walmart and Sam's Club's high-traffic reactive supplier orchestration. Handled 500 million - 1 bil events per day",
+        "tools": "Tools: Java, Spring, ChatGPT, Elasticsearch, Cassandra, Kubernetes, REST apis, Microservice Architecture, Project Reactor, Orchestration.",
+        "styling":"text-section sec"
+},
+    {
+        "title": "Software Engineer Intern, Walmart eCommerce",
+        "date": "June 2021 - August 2021",
+        "desc":"Migrated Item Status API search platform from Solr to Elasticsearch using Spring Boot. Built new Elasticsearch cluster with Kibana data visualization dashboard tools. Streamlined data indexing resulting in a 75% reduction in server costs for the Item Status API team.",
+        "tools": "Tools: Spring Stack, Elasticsearch, Solr, Github.",
+        "styling":"text-section"
+    },
+    {
+        "title":"Research Scholar, Robertson Autism Research Lab",
+        "date": "June 2020 - June 2021",
+        "desc":"Designed and implemented a user authentication system that allows multiple research subjects to use the same VR headset without overlapping data issues. Built using PHP, C#, and Unity. Created a VR consent screen to increase awareness of patient rights. Built using C# and Unity.",
+        "tools":"Tools: C#, Unity, PHP, DropBox.",
+        "styling":"text-section sec"
+
+    },
+    {
+        "title": "Software Engineer Intern, StudyMaker LLC",
+        "date": "June 2019 - August 2019",
+        "desc": "Redesigned and implemented client interface using JS, HTML/CSS in order to enhance website usability.",
+        "tools": "Tools: LAMP stack, GitHub",
+        "styling":"text-section"
+    }
+]
